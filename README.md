@@ -6,7 +6,7 @@ Food Pen is a food ordering app made using React. Customers can order listed foo
 URL - https://bhagyamudgal.github.io/food-pen/
 ## Tech Stack
 
-**Client:** React
+**Client:** ReactJS
 
 **Database:** Firebase Realtime Database
 
